@@ -18,3 +18,8 @@ body{
   top: 25px;
   right: 20px;
 }
+.image2 {
+  position: absolute;
+  bottom: 150px;
+  right: 20px;
+}
